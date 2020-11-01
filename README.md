@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about <b>Mathematics, Probability & Statistics and Calcules behined Machine Learning & Deep Learning Algorithms</b>...
 - ⚡ Fun fact: <b>My next is to Northern Lights</b>...
 
-<img src="https://github-readme-stats.vercel.app/api?username=rarpit1994&theme=highcontrast&show_icons=true&count_private=true&title_color=fbc065&icon_color=bb2acf&text_color=ffffff&bg_color=191919">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarpit1994&title_color=fbc065&icon_color=bb2acf&text_color=ffffff&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=rarpit1994&theme=highcontrast&show_icons=true&count_private=true&icon_color=bb2acf&text_color=000000&bg_color=ffffff">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarpit1994&icon_color=bb2acf&text_color=000000&bg_color=ffffff">
